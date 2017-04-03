@@ -1,0 +1,4 @@
+The task used a class called User to store the user information
+A class solution was implemented where there is a list with all the users. Also, there are all the function used for parsing and writing back.
+A JSON library was used to parse the json file
+The output files are created inside the folder examples
